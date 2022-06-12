@@ -6,3 +6,4 @@ These notebooks are for practice.
 
 1) Linear Regression
 2) Logistic Regression
+3) Logistic Regression with multiclass classification and Neural Network intuation
